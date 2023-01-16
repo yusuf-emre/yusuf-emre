@@ -16,8 +16,6 @@
 <p>I am also an effective listener and team player, with the ability to work productively in fast-paced, high-stress environments.</p>
 <p>I am excited to bring my skills and enthusiasm to a new team and contribute to the development of cutting-edge software.</p>
 
-<br/>  
-
 <hr/> 
  
 <h1 align="center"> 🚀 Skills 🚀 </h1>
