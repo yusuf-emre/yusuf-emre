@@ -20,7 +20,7 @@
  
 <h1 align="center"> 🚀 Skills 🚀 </h1>
  
-<b align="center">C# | ASP.NET MVC | ASP.NET Web API | JavaScript | TypeScript | React.js | CSS3 | HTML5 | Bootstrap | MUI | Figma | Razor Pages | NextJS | React Native | Entity Framework | SQL | Docker | Azure | Netlify | xUnit | Mocha | Git | GitHub | Agile | Visual Studio/VS Code | Postman | TDD |</b>
+<p align="center"><b>C# | ASP.NET MVC | ASP.NET Web API | JavaScript | TypeScript | React.js | CSS3 | HTML5 | Bootstrap | MUI | Figma | Razor Pages | NextJS | React Native | Entity Framework | SQL | Docker | Azure | Netlify | xUnit | Mocha | Git | GitHub | Agile | Visual Studio/VS Code | Postman | TDD |</b></p>
 
 <br/>  
 
