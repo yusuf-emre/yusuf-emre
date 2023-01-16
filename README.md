@@ -29,8 +29,7 @@
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js"  height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_azure_logo_icon_170956.png" alt="azure"  height="48"/> 
- <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_macos_bigsur_icon_189958.png" alt="visual-studio"  height="48"/> 
- <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189956.png" alt="vs-code"  height="48"/>
+ <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_macos_bigsur_icon_189958.png" alt="visual-studio"  height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="ts"  height="48"/> 
  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css3"  height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/bootstrap_plain_logo_icon_146619.png" alt="bootstarp"  height="48"/>
@@ -41,7 +40,6 @@
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="48"/>
  <img src="https://user-images.githubusercontent.com/94930605/160260916-8472f064-1a1e-4689-99f8-be5f4d5eac56.png" alt="gitHub" height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" alt ="netlify" height="48"/>
- <img src="https://cdn.pixabay.com/photo/2013/09/18/12/13/sqlite-183454__340.png" alt ="sqlite" height="48"/>
 </p>
 
 <hr/>
