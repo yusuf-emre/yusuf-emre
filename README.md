@@ -11,10 +11,13 @@
  
 <h1 align="center"> 🧑‍💻 About Me 🧑‍💻</h1>
 
-<p>As a passionate and driven software developer, I am constantly seeking new challenges and opportunities to expand my skills and make a meaningful impact through technology.<br/>
-I gained valuable experience working on business-side problems and collaborating with cross-functional teams to deliver innovative solutions. By this means, I bring a unique blend of technical skills and industry knowledge to the table.<br/>
-I am also an effective listener and team player, with the ability to work productively in fast-paced, high-stress environments.<br/>
-I am excited to bring my skills and enthusiasm to a new team and contribute to the development of cutting-edge software.</p>
+<p>As a passionate and driven software developer, I am constantly seeking new challenges and opportunities to expand my skills and make a meaningful impact through technology.</p>
+<br/>
+<p>I gained valuable experience working on business-side problems and collaborating with cross-functional teams to deliver innovative solutions. By this means, I bring a unique blend of technical skills and industry knowledge to the table.</p>
+<br/>
+<p>I am also an effective listener and team player, with the ability to work productively in fast-paced, high-stress environments.</p>
+<br/>
+<p>I am excited to bring my skills and enthusiasm to a new team and contribute to the development of cutting-edge software.</p>
 
 <br/>  
 
