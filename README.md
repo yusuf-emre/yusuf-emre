@@ -11,10 +11,10 @@
  
 <h1 align="center"> 🧑‍💻 About Me 🧑‍💻</h1>
 
-<p>As a passionate and driven software developer, I am constantly seeking new challenges and opportunities to expand my skills and make a meaningful impact through technology.</p>
-<p>I gained valuable experience working on business-side problems and collaborating with cross-functional teams to deliver innovative solutions. By this means, I bring a unique blend of technical skills and industry knowledge to the table.</p>
-<p>I am also an effective listener and team player, with the ability to work productively in fast-paced, high-stress environments.</p>
-<p>I am excited to bring my skills and enthusiasm to a new team and contribute to the development of cutting-edge software.</p>
+<p align="center">As a passionate and driven software developer, I am constantly seeking new challenges and opportunities to expand my skills and make a meaningful impact through technology.</p>
+<p align="center">I gained valuable experience working on business-side problems and collaborating with cross-functional teams to deliver innovative solutions. By this means, I bring a unique blend of technical skills and industry knowledge to the table.</p>
+<p align="center">I am also an effective listener and team player, with the ability to work productively in fast-paced, high-stress environments.</p>
+<p align="center">I am excited to bring my skills and enthusiasm to a new team and contribute to the development of cutting-edge software.</p>
 
 <hr/> 
  
@@ -24,7 +24,7 @@
 
 <br/>  
 
-<p>
+<p align="center">
  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".Net"  height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" height="48"/>
  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js"  height="48"/>
